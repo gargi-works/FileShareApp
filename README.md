@@ -1,5 +1,3 @@
-<img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/84832f61-ea1d-4e69-864f-35ec1fe30455" /># FileShareApp
-
 A simple Android application for wireless file sharing between nearby devices without using the internet.  
 Inspired by apps like SHAREit, this project demonstrates peer-to-peer communication using sockets and local networking.
 
@@ -25,7 +23,7 @@ This is the initial screen visible to the user when the app is opened.
   - Receive File
 - Simple and minimal interface for easy navigation
 
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/9bef464c-5490-445d-b8f5-96891a1673a5" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/9bef464c-5490-445d-b8f5-96891a1673a5" />
 
 ---
 
@@ -39,8 +37,8 @@ This is the initial screen visible to the user when the app is opened.
 - User selects any file
 - Selected file name is displayed on screen
 
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/ee87fb83-51b5-4fd7-ae72-5827941fbd51" />
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/b3033d8a-2b27-47ff-9c6c-c44ab9785c16" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/ee87fb83-51b5-4fd7-ae72-5827941fbd51" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/b3033d8a-2b27-47ff-9c6c-c44ab9785c16" />
 
 
 
@@ -50,7 +48,7 @@ This is the initial screen visible to the user when the app is opened.
 
 - App starts scanning for nearby devices
 - If receiver is not active:
-<img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/ecaf2f05-ff8b-4d22-a70c-366c01ce4ac2" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/ecaf2f05-ff8b-4d22-a70c-366c01ce4ac2" />
 
 ---
 
@@ -76,7 +74,7 @@ This is the initial screen visible to the user when the app is opened.
 - User navigates to **Receive File**
 - Option to open hotspot settings (if required)
 
-<img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/1357d756-8b89-4653-9842-051b8bd2b8a5" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/1357d756-8b89-4653-9842-051b8bd2b8a5" />
 
 
 ---
@@ -87,7 +85,7 @@ This is the initial screen visible to the user when the app is opened.
 - Server starts and waits for connection
 - Status updates to:
 
-<img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/789d9ff2-256e-4871-94eb-106b6096e90e" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/789d9ff2-256e-4871-94eb-106b6096e90e" />
 
 
 ---
@@ -96,7 +94,7 @@ This is the initial screen visible to the user when the app is opened.
 
 - Receiver broadcasts its presence
 - Sender devices can now detect this device
-  <img width="720" height="1600" alt="image" src="https://github.com/user-attachments/assets/5af8d4af-2f77-4c96-bb90-2ee4eee342fb" />
+  <img width="300" alt="image" src="https://github.com/user-attachments/assets/5af8d4af-2f77-4c96-bb90-2ee4eee342fb" />
 
 
 ---
@@ -116,7 +114,7 @@ This is the initial screen visible to the user when the app is opened.
 - Receiver gets a prompt:
   - Accept or Reject file
 
-<img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/828d6173-9a80-4d3c-a998-82dfbc30b9c0" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/828d6173-9a80-4d3c-a998-82dfbc30b9c0" />
 
 
 ---
@@ -132,8 +130,8 @@ This is the initial screen visible to the user when the app is opened.
     - Video → Movies/FileShareApp
     - Others → Download/FileShareApp
    
-  <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/cd72c76e-d9e9-44f0-87ef-c62ef5b79377" />
-  <img width="716" height="1600" alt="image" src="https://github.com/user-attachments/assets/4f74a70a-7795-43cf-99e0-cb2526dc6cce" />
+  <img width="300" alt="image" src="https://github.com/user-attachments/assets/cd72c76e-d9e9-44f0-87ef-c62ef5b79377" />
+  <img width="300" alt="image" src="https://github.com/user-attachments/assets/4f74a70a-7795-43cf-99e0-cb2526dc6cce" />
 
 
 
