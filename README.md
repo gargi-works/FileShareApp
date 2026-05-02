@@ -94,7 +94,7 @@ This is the initial screen visible to the user when the app is opened.
 
 - Receiver broadcasts its presence
 - Sender devices can now detect this device
-  <img width="300" alt="image" src="https://github.com/user-attachments/assets/5af8d4af-2f77-4c96-bb90-2ee4eee342fb" />
+<img width="300" alt="image" src="https://github.com/user-attachments/assets/5af8d4af-2f77-4c96-bb90-2ee4eee342fb" />
 
 
 ---
